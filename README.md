@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @XYOlic
 - 👀 I’m interested in software dev
 - 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can chat me on discord https://discord.gg/m8eeBdujz
+- 📫 You can chat me on discord @XYOlic#9631
